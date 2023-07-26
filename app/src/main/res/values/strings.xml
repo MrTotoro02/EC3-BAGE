@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EC3-bryanV1</string>
+    <string name="nombre">Bryan Gomez Estrada, esta app se hizo a base de una API de comida</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
